@@ -1,0 +1,42 @@
+# Readme
+SecureGuard: Python-based Financial Fraud Detection
+
+SecureGaurd is an  an innovative and secure Fraud detection django based application for accomplishing the mission of making financial wellness tools more accessible to US workers resulting in providing a safe and simple option through which employees without a traditional bank account can access their pay, giving them freedom in spending their wages. 
+FraudShield operates by continuously monitoring transactional data, assessing patterns, anomalies, and various risk factors. Through this vigilant scrutiny, it can detect suspicious behavior or irregularities that may indicate fraudulent activity, such as unauthorized access, identity theft, or unusual transaction patterns. Once identified, the system triggers alerts or takes predefined actions to prevent or mitigate the potential impact of fraud.
+
+SecureGaurd User Instructions:
+
+Accessing the System:
+Log in to the FraudShield platform using your designated credentials.
+
+Dashboard Overview:
+Upon login, you will be greeted with a comprehensive dashboard displaying key metrics and insights related to ongoing financial transactions.
+
+Transaction Monitoring:
+Navigate to the "Transactions" section to view a real-time feed of financial transactions.
+Green indicates approved transactions, while flagged transactions will be highlighted in red.
+
+Alerts and Notifications:
+Stay vigilant for alerts and notifications. FraudShield will promptly notify you of any detected anomalies or suspicious activities.
+
+Transaction Details:
+Click on individual transactions to access detailed information, including transaction history, user details, and risk assessment.
+
+Risk Assessment:
+Utilize the risk assessment feature to understand the level of risk associated with specific transactions.
+
+Actionable Insights:
+Leverage FraudShield's actionable insights to make informed decisions regarding flagged transactions. Take appropriate actions, such as approving, blocking, or investigating further.
+
+Settings and Customization:
+Explore the settings section to customize alert preferences, risk thresholds, and other parameters based on your organization's policies.
+
+Continuous Monitoring:
+FraudShield operates in real-time. Regularly check the platform for the latest updates and ensure continuous monitoring of financial transactions.
+
+Feedback and Support:
+Provide feedback on flagged transactions to enhance the system's learning capabilities. For technical support, reach out to our dedicated support team.
+
+
+Developer Instructions -
+
